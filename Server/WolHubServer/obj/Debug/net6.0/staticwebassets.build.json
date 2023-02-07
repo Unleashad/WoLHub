@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O34xV2mftZ2ccpAm/npQuIPvbwULOVaQ0y+Taa+UzHg=",
+  "Source": "WolHubServer",
+  "BasePath": "_content/WolHubServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
